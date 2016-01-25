@@ -2347,13 +2347,9 @@ span.filter {
     margin: 20px -5px;
     border: 1px solid #eee;
 }
-.pricing-table-two .title {
-    font-size: 24px;
-    padding: 15px 20px;
-    color: #000000;
-}
+
 .pricing-table-two .price { color: #E74c3c }
-.pricing-table-two .desc { padding: 5px 20px }
+.pricing-table-two .item-title { padding: 5px 20px; display: inline-block; font-weight: 700; width: 150px;}
 .pricing-table-two .inner { padding: 0 10px }
 .pricing-table-two ul.items {
     list-style: none;
@@ -2381,7 +2377,7 @@ span.filter {
 }
 .pricing-table-two ul.items li .desc {
     display: inline-block;
-    width: 85%;
+    width: 75%;
 }
 .pricing-table-two ul.items li .checkbox label {
     padding-left: 2px;
