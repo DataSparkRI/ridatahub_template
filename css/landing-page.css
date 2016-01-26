@@ -1,12 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 /*           Font Smoothing      */
-
-
-
-
-
-
-
 .fa {
   text-align: center;
 }
@@ -924,7 +917,7 @@ vertical-align: middle;
     background: rgba(0, 0, 0, 0.75);
   }
   .landing-page .parallax {
-    height: 860px;
+    height: 1130px;
     text-align: center;
   }
 

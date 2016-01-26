@@ -1556,7 +1556,6 @@ a.btn-purchase:focus {
 }
 .clients-list { margin: 0 }
 .clients-list li {
-    background: #f9f9f9;
     position: relative;
 }
 .clients-list li img.color-img {
